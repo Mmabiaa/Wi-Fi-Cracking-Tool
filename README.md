@@ -1,7 +1,14 @@
 # Wireless Network Cracker Tool
 
 ## Content Table
--[Description](#description)
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Contribution](#contribution)
+- [Linsence](#linsence)
+- [Author](#author)
+- [About Me](#about)
+
 
 
 
@@ -50,7 +57,7 @@ To install the Wireless Network Tool, follow these steps:
 
 Select an option by entering the corresponding number.
 
-## Contributing
+## Contribution
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
@@ -66,7 +73,8 @@ Created by [Mmabiaa](https://github.com/mmabiaa). Feel free to reach out for any
 
 For more information about me and my projects, select option `(0)` in the tool's menu.
 Or
-Just check up my github profile
+### Contact:
+- **email: ** isbbydior@gmail.com
 
 ---
 
