@@ -1,5 +1,8 @@
 import os
 
+# Author - Mmabiaa
+# All rights reserved by the author. Unauthorized use is prohibited.
+
 def wire():
 
             print("""
