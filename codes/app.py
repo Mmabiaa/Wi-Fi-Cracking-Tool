@@ -2,7 +2,8 @@ from choices import choice0, choice1, choice2, choice3, choice4, choice6, choice
 from cracker import wire
 
 
-
+# Author - Mmabiaa
+# All rights observed!
 
 
 def intro():
