@@ -2,6 +2,7 @@
 
 ## Content Table
 - [Description](#description)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
 - [Contribution](#contribution)
@@ -15,6 +16,9 @@
 ## Description
 
 Wireless Network Tool is a powerful command-line utility designed for monitoring and managing wireless networks. With features ranging from network scanning to handshake cracking, this tool is essential for network security professionals and enthusiasts alike.
+## Screenshots
+[!view](https://github.com/Mmabiaa/Wi-Fi-Cracking-Tool/blob/main/screenshots/Screenshot%20(22).png)
+[!view](https://github.com/Mmabiaa/Wi-Fi-Cracking-Tool/blob/main/screenshots/Screenshot%20(23).png)
 
 ## Features
 
