@@ -3,7 +3,7 @@ from cracker import wire
 
 
 # Author - Mmabiaa
-# All rights observed!
+# All rights reserved by the author. Unauthorized use is prohibited.
 
 
 def intro():
