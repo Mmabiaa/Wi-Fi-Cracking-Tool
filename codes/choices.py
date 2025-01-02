@@ -1,4 +1,7 @@
 
+# Author - Mmabiaa
+# All rights reserved by the author. Unauthorized use is prohibited.
+
 import os
 from cracker import *
 import subprocess
