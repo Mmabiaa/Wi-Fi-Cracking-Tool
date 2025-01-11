@@ -67,6 +67,7 @@ Select an option by entering the corresponding number.
 ## Contribution
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+You can also check [this file](https://github.com/Mmabiaa/Wi-Fi-Cracking-Tool/blob/main/CONTRIBUTION.md)
 
 ## License
 
