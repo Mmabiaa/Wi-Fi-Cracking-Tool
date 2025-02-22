@@ -1,3 +1,4 @@
+
 # Contribution Guidelines for WI-FI Cracking Tool
 
 Thank you for your interest in contributing to the Wireless Network Tool! We welcome contributions from everyone, whether you are a seasoned developer or just starting out. This document outlines the guidelines and process for contributing to our project.
